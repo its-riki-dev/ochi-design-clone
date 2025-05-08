@@ -24,22 +24,22 @@ const Featured = () => {
     {
       title: "Salience Labs",
       tags: ["Brand Identity", "Pitch deck"],
-      image: "public/Imgs/ochi-work01.png"
+      image: "https://ochi.design/wp-content/uploads/2025/02/Salience_Website_cover-1326x1101.png"
     },
     {
       title: "Cardboard Spaceship",
       tags: ["Brand Template", "sales deck", "social media template"],
-      image: "public/Imgs/ochi-work02.png"
+      image: "https://ochi.design/wp-content/uploads/2024/08/CS_Website_1-1326x1101.png"
     },
     {
       title: "Trawa",
       tags: ["Brand Identity", "Design Research", "Investor Desk"],
-      image: "public/Imgs/ochi-work03.png"
+      image: "https://ochi.design/wp-content/uploads/2023/08/Frame-3875-1326x1101.jpg"
     },
     {
       title: "Vise",
       tags: ["Agency", "Company Presentation"],
-      image: "public/Imgs/ochi-work04.png"
+      image: "https://ochi.design/wp-content/uploads/2025/02/Vise_Front-1-1326x1101.png"
     }
   ]
 
@@ -136,21 +136,21 @@ const Featured = () => {
       <div className='w-full h-[40vw] px-[60px] bg-zinc-100 flex items-center gap-4 mt-20'>
         <div className='cardcontainer w-1/2 h-[54vh]'>
           <div className='card relative rounded-xl w-full h-full flex items-center justify-center bg-[#004D43]'>
-            <img className='w-37' src="public/Imgs/ochi-logo-green.svg" alt="#" />
+            <img className='w-37' src="https://ochi.design/wp-content/uploads/2022/04/logo001.svg" alt="#" />
             <button className='absolute px-3 py-1 border-2 rounded-3xl left-7 bottom-10 font-["NeueMontreal"] border-[#669C56] text-[#CDEA68]'>©2019-2022</button>
           </div>
         </div>
 
         <div className='cardcontainer flex gap-5 w-1/2 h-[54vh]'>
           <div className='card relative rounded-xl w-1/2 h-full flex items-center justify-center bg-[#212121]'>
-            <img className='w-37' src="public/Imgs/clutch-logo.svg" alt="" />
+            <img className='w-37' src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" />
             <button className='absolute px-3 py-1 border-2 rounded-3xl left-7 tracking-tight bottom-10 uppercase border-zinc-400 text-zinc-200 font-["NeueMontreal"]'>
               Rating 5.0 on CLUTCH
             </button>
           </div>
 
           <div className='card relative rounded-xl w-1/2 h-full flex items-center justify-center bg-[#212121]'>
-            <img className='w-25' src="public/Imgs/stump.png" alt="" />
+            <img className='w-25' src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" alt="" />
             <button className='absolute px-3 py-1 border-2 rounded-3xl left-7 tracking-tight bottom-10 uppercase border-zinc-400 text-zinc-200 font-["NeueMontreal"]'>
               Business Bootcamp Alumni
             </button>

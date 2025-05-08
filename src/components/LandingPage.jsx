@@ -17,7 +17,7 @@ const LandingPage = () => {
                                         transition={{ ease: [0.76, 0, 0.24, 1], duration: 1, delay: 0.2 }}
                                         className='relative mt-[0.9vw] mr-[1vw] w-[8.5vw] h-[6vw] rounded-xl overflow-hidden'
                                     >
-                                        <img className="w-full h-full object-cover" src="public/Imgs/ochi-image01.webp" alt="" />
+                                        <img className="w-full h-full object-cover" src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg" alt="" />
                                     </motion.div>
                                 )}
                                 <h1 className=' uppercase text-[9vw] leading-[.76] h-full font-["FoundersGrotesk"] text-black'>
