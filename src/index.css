@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'NeueMontreal';
+    src: url('./assets/Fonts/NeueMontreal-Regular.ttf') format('opentype');
+  }
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('./assets/Fonts/FoundersGrotesk-Semibold.ttf') format('opentype');
+  }
+
+  [data-scroll-container] {
+    scrollbar-width: none;
+    -ms-overflow-style: none; 
+  }
+  
+  [data-scroll-container]::-webkit-scrollbar {
+    display: none;
+  }
+
+  html, body {
+    overflow: hidden;
+  }
