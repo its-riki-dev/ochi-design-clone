@@ -2,7 +2,7 @@
 
 This is a modern, interactive single-page portfolio website inspired by the design aesthetics of top creative agencies like Obys (referenced by the Ochi project). Built with React, Framer Motion, Tailwind CSS, and Locomotive Scroll, the site showcases smooth scrolling, creative animations, and bold visual storytelling — perfect for a design agency or portfolio showcase.
 
-[![HomeSS](./Imgs/heropage.png)](https://its-riki-dev.github.io/ochi-design-clone/)
+[![HomeSS](public/Imgs/heropage.png)](https://its-riki-dev.github.io/ochi-design-clone/)
 
 ---
 
