@@ -77,7 +77,7 @@ npm run preview
 
 ## 🙌 Credits
 
-Inspired by the Ochi project from [Obys Agency](https://obys.agency/)
+Inspired by the [Ochi](https://ochi.design/)
 
 ---
 
