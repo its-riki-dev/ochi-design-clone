@@ -71,7 +71,7 @@ const About = () => {
         >
           <motion.img
             className="w-full h-full object-cover"
-            src="/Imgs/ochi-image02.webp"
+            src="public/Imgs/ochi-image02.webp"
             alt="Ochi design team"
             animate={{ scale: isHovered ? 1.10 : 1 }}
             transition={{ duration: 2, ease: [0.215, 0.61, 0.355, 1] }}
