@@ -24,22 +24,22 @@ const Featured = () => {
     {
       title: "Salience Labs",
       tags: ["Brand Identity", "Pitch deck"],
-      image: "../Imgs/ochi-work01.png"
+      image: "./Imgs/ochi-work01.png"
     },
     {
       title: "Cardboard Spaceship",
       tags: ["Brand Template", "sales deck", "social media template"],
-      image: "../Imgs/ochi-work02.png"
+      image: "./Imgs/ochi-work02.png"
     },
     {
       title: "Trawa",
       tags: ["Brand Identity", "Design Research", "Investor Desk"],
-      image: "../Imgs/ochi-work03.png"
+      image: "./Imgs/ochi-work03.png"
     },
     {
       title: "Vise",
       tags: ["Agency", "Company Presentation"],
-      image: "../Imgs/ochi-work04.png"
+      image: "./Imgs/ochi-work04.png"
     }
   ]
 
