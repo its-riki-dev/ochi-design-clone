@@ -32,10 +32,10 @@ This is a modern, interactive single-page portfolio website inspired by the desi
 
 ## 🛠️ Built With
 
-- [React](https://reactjs.org/)
-- [Framer Motion](https://motion.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
+- [React](https://reactjs.org/)– Component-based frontend library
+- [Framer Motion](https://motion.dev/)– Declarative animations and transitions
+- [TailwindCSS](https://tailwindcss.com/)– Utility-first CSS framework
+- [Locomotive Scroll](https://scroll.locomotive.ca/docs#/)-Smooth scrolling & parallax behavior
 
 ---
 
