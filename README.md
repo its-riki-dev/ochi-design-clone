@@ -58,7 +58,7 @@ This is a modern, interactive single-page portfolio website inspired by the desi
 git clone https://github.com/its-riki-dev/ochi-design-clone.git
 
 # Navigate into the project
-cd mini-docs-app
+cd ochi-design-clone
 
 # Install dependencies
 npm install
