@@ -28,6 +28,7 @@ This is a modern, interactive single-page portfolio website inspired by the desi
 - Tailwind CSS for responsive and utility-driven design
 - DOM manipulation through external libraries like Locomotive Scroll
 - Improving UX with interactive UI elements (e.g. animated buttons, marquee)
+  
 ---
 
 ## 🛠️ Built With
